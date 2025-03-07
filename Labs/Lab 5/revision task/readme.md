@@ -21,7 +21,7 @@ chmod 600 file1.txt
 ls -l file1.txt
 
 ### 7. Grant execute permissions to the owner of file1.txt.
-        chmod u+x file1.txt
+chmod u+x file1.txt
 
 ### 8. Display the current working directory.
 pwd
