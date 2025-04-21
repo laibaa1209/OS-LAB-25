@@ -1,4 +1,6 @@
-# TASK 1-12
+# OUTPUT
+
+## TASK 1-12
 ### 1. Create a directory called project in your home directory.
 mkdir ~/project
 
