@@ -1,4 +1,4 @@
-# TASK 1-14
+# TASK 1-12
 ### 1. Create a directory called project in your home directory.
 mkdir ~/project
 
@@ -37,8 +37,15 @@ uptime
 
 ### 12. Show all users currently logged into the system.
 who
+# OUTPUT(1-12):
+![image](https://github.com/user-attachments/assets/719822c1-6481-4f71-a5ab-6991146c1c0c)
+
 
 ### 13 & 14. Script to take a filename as input and count lines in the file.
-echo -e '#!/bin/bash\nread -p "Enter filename: " file\nwc -l "$file"' > count_lines.sh
-chmod +x count_lines.sh
+# OUTPUT:
+![image](https://github.com/user-attachments/assets/3e5a8301-3ce5-4d78-8973-b3d17cd3ae5b)
+
+### 15
+# OUTPUT:
+![image](https://github.com/user-attachments/assets/25f16763-0daa-4a3d-a635-fe3de4bdc22b)
 
