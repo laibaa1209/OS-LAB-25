@@ -35,3 +35,13 @@ c) What purpose does the sleep() function serve in producer and consumer functio
         Consumer simulates item consumption/processing time.
 
     It also makes thread switching more visible and the output easier to observe/debug by reducing the speed of execution.
+
+## Code Workout 2:
+### part a:
+![image](https://github.com/user-attachments/assets/2b41ea81-c6bb-47da-8973-8a444b7a7f12)
+
+part b:
+![image](https://github.com/user-attachments/assets/26b8d537-58fa-4b68-9082-ac68e4d1575c)
+
+
+    
